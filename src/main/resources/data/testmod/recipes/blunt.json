@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "testmod:weed"
+    }
+  },
+  "pattern": [
+    "#  ",
+    " # ",
+    "  #"
+  ],
+  "result": {
+    "item": "testmod:blunt_item"
+  }
+}

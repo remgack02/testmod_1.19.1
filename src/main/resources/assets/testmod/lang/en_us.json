@@ -1,0 +1,29 @@
+{
+  "item.testmod.test_item": "Test Item",
+  "item.testmod.raw_test_item": "Raw Test Item",
+  "item.testmod.eight_ball": "Eight Ball",
+  "item.testmod.blunt_item": "Gas Blunt",
+  "item.testmod.blueberry": "Blueberry",
+  "item.testmod.blueberry_seeds": "Blueberry Seeds",
+  "item.testmod.weed": "Weed",
+  "item.testmod.weed_seeds": "Weed Seeds",
+  "item.testmod.roach_item": "Roach",
+
+  "block.testmod.test_block": "Test Block",
+  "block.testmod.jumpy_block": "Jumpy Block",
+  "block.testmod.test_ore": "Test Ore",
+  "block.testmod.deepslate_test_block": "Deepslate Test Ore",
+  "block.testmod.netherrack_test_block": "Netherrack Test Ore",
+  "block.testmod.endstone_test_block": "Endstone Test Ore",
+  "block.testmod.weird_block": "Weird Block",
+  "block.testmod.zircon_lamp": "Zircon Lamp",
+
+  "ItemGroup.test_tab": "Test Tab",
+  "entity.minecraft.villager.testmod.jumpy_master": "Jumpy Master",
+  "entity.minecraft.villager.testmod.weed_plug": "Weed Plug",
+  "key.category.testmod.test": "Test Mod",
+  "key.testmod.smoke": "Smoke Dope",
+
+  "message.testmod.smoke_dope": "Smoking Dope =)",
+  "message.testmod.no_dope": "No Dope Left!"
+}
